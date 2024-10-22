@@ -1,0 +1,26 @@
+{
+  "f12dba82ecc241d013d86b3fb636c613": {
+    "title": "Mesa",
+    "description": "Mesa de madera",
+    "code": "abc123",
+    "price": 100,
+    "status": true,
+    "stock": 100,
+    "category": "Hogar",
+    "id": "f12dba82ecc241d013d86b3fb636c613",
+    "createdAt": 1729544134690,
+    "updatedAt": 1729544339356
+  },
+  "a9a21d25f405ede369f917c8eab78863": {
+    "title": "Silla",
+    "description": "Silla de madera",
+    "code": "abc124",
+    "price": 50,
+    "status": true,
+    "stock": 100,
+    "category": "Hogar",
+    "id": "a9a21d25f405ede369f917c8eab78863",
+    "createdAt": 1729546378415,
+    "updatedAt": 1729546378415
+  }
+}
